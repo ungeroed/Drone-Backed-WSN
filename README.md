@@ -1,7 +1,7 @@
-# Drone Backed Wireless Sensor Network
+# Drone backed correction of sensor networks
 
-This is the source code for the "Drone Backed Wireless Sensor Network" project
-at the IT University of Copenhagen, Fall 2015.
+This is the source code for the "Drone backed correction of sensor networks"
+project at the IT University of Copenhagen, Fall 2015.
 
 The repository contains the following directories:
 
